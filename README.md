@@ -1,5 +1,5 @@
 ### 👋 Sobre Mim
-Estudante dedicado de cibersegurança com foco em CISSP.  
+Estudante dedicada de cibersegurança com foco em CISSP.  
 Atualmente explorando:
 - Análise de tráfego com Wireshark
 - Hardening de sistemas Linux
